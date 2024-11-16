@@ -1,4 +1,4 @@
-### Hello there 🤗 
+### Hello there 🤗.
 ### I am Nweke Manuchimso a software developer and technical writer. Welcome to my profile.
 
 ![Manuel-co's Stats](https://github-readme-stats.vercel.app/api?username=Manuel-co&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
